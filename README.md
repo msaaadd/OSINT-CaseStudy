@@ -6,5 +6,13 @@
 
 ## Strategy Used For Information Gathering
 Facebook Page Link of Anrell Posters Provided by Evette: 
+
 Full Name of Owner of Anrell Posters: ***Anika Burell*** 
 
+
+
+
+
+|Evette Slaughter| Suspect Scammer |
+|--|--|
+|  Full Name: Evetter Slaughter| Full Name: Anika Burell |
