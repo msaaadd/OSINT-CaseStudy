@@ -1,4 +1,4 @@
 # IPS - OSINT PROJECT 
 
 ## Case Study
-**Evette Slaughter** is someone who approched **Team Recon Rangers** through twitter claiming that her posters are being infrigement copyright by anonymous person. Now we need to study in detail about them, Let's dive into the OSINT framework for their detailed information gathering
+**Evette Slaughter** is someone who approched **Team Recon Rangers** through freelancing platform claiming that her posters are being infrigement copyright by anonymous person. Now we need to study in detail about them, Let's dive into the OSINT framework for their detailed information gathering
