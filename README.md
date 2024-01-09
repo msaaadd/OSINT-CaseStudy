@@ -15,4 +15,7 @@ Full Name of Owner of Anrell Posters: ***Anika Burell***
 
 |Evette Slaughter| Suspect Scammer |
 |--|--|
-|  Full Name: Evetter Slaughter| Full Name: Anika Burell |
+|Full Name: Evette G Slaughter | Full Name: Anika Burell
+|Location Buffalo, NY| |
+|Phone: (716) 689-6207| |
+|Email:evetteslaughter@gmail.com|  |
