@@ -6,16 +6,33 @@
 
 ## Strategy Used For Information Gathering
 Facebook Page Link of Anrell Posters Provided by Evette: 
+Phone Number provided on Facebook page: +1 (303) 576-9424
+ 
 
-Full Name of Owner of Anrell Posters: ***Anika Burell*** 
+## Tools Used:
+
+ 1. **Sherlock**
+ - Clone the specific repository using the command `git clone https://github.com/sherlock-project/sherlock`
+ - Move to your specified folder  using `cd sherlock`
+ - Download the specified requirements for installation `python3 -m pip install -r requirements.txt`
+ - Now you're good to go with Sherlock, Be a Sherlock
+ - You can use sherlock help menu using the command 
+ - For the particular scenario we used the ***anika.burrell*** as the username in the command `python3 sherlock anika.burell`
+
+*Note: If you're having any errors in the particular tool make sure you have `python3` installed and your pip is updated to the latest version, to update the pip to the latest version run the following command `python3 -m pip install --upgrade pip`*
 
 
+    
 
-
+## Final Results of the Information Gathered
 
 |Evette Slaughter| Suspect Scammer |
 |--|--|
 |Full Name: Evette G Slaughter | Full Name: Anika Burell
 |Location Buffalo, NY| |
-|Phone: (716) 689-6207| |
-|Email:evetteslaughter@gmail.com|  |
+|Phone: (716) 689-6207|Phone: +1 (303) 576-9424|
+|Email: evetteslaughter@gmail.com|  |
+
+
+
+
