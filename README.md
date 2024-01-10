@@ -43,7 +43,7 @@
 |Evette Slaughter| Suspect Scammer |
 |--|--|
 |Full Name: Evette G Slaughter | Full Name: Anika Burell
-|Location Buffalo, NY| |
+|Location: Buffalo, NY|Location: 4641 Fairplay Way, Denver, CO, 80239 |
 |Phone: (716) 689-6207|Phone: +1 (303) 576-9424|
 |Email: evetteslaughter@gmail.com|  |
 
