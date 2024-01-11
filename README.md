@@ -1,4 +1,5 @@
 
+
 # IPS - OSINT PROJECT 
 
 ## Case Study
@@ -50,3 +51,12 @@
 
 
 
+## Extra Tools and Tricks
+1. **Finding the email of a github user:** 
+Follow the following steps to extract email address of github account
+```mermaid
+graph LR
+A[Github User Page] --> B[Choose a Repository] --> C[View Code] --> D[Click Commits] --> E[Click on a commit] --> F[Add `.patch` at the end of the url]
+```
+This shows email adres of github user who did the commit. 
+***Note**: This trick does not work with forked repositories.*
