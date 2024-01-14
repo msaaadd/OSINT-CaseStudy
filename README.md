@@ -73,9 +73,13 @@ A[Github User Page] --> B[Choose a Repository] --> C[View Code] --> D[Click Comm
 ```
 This shows email adres of github user who did the commit. 
 ***Note**: This trick does not work with forked repositories.*
+
 2. **OSINT Dojo:** https://www.osintdojo.com/
+
 3.  **Is Your Data Breached:** https://haveibeenpwned.com/
+
 4. **OSINT Techniques:** https://www.osinttechniques.com/
+
 5. **OSINT Frameworks:** https://osintframework.com/
 
 ## Disclaimer
