@@ -22,24 +22,26 @@ PhoneInfoga is one of the most advanced tools to scan international phone number
 `phoneinfoga scan -n "33679368229`
 - Launching the web server using the following command `phoneinfoga serve` and `
 phoneinfoga  serve  -p  8080` respectively.
+-Lauch the browser and enter `http://<localhost>:<PORT-NUMBER>`
 
-
-
-3. [**That's Them**](https://thatsthem.com/)
+2. [**That's Them**](https://thatsthem.com/)
+By Thats Them can search for people by name and address, phone number, just the address, an email address, or an IP address. ThatsThem returns a wealth of information, including address, phone number, email address, length of residence, household size, IP address, age range, estimated net worth, estimated income, education, occupation, language, and then it scores each person on wealth, green, donor, travel, tech, and shopping.
 - Visit the specific URL in your browser `https://thatsthem.com/reverse-phone-lookup`
 - Enter Mobile Number for Lookup.
 
-4. **[Reverse Phone Check](https://www.reversephonecheck.com/)** 
+3. **[Reverse Phone Check](https://www.reversephonecheck.com/)** 
+A reverse phone number lookup/ phone number lookup is exactly what it sounds like – a tool that allows users to enter a phone number and find out the name of the person to whom the number belongs! This is the reverse of the traditional, physical phone books where you search for a person's phone number, hence the name!
 - Browse the website in any browser using the link `https://www.reversephonecheck.com/`
 - Enter the phone number for the reverse lookup.
 - The specific website will redirect you to [truthfinder.com](https://truthfinder.com/) for the complete report.
 
-5. [**Been Verified**](https://www.beenverified.com/)
+4. [**Been Verified**](https://www.beenverified.com/)
+BeenVerified empowers consumers to learn more about people by providing access to public record information like criminal history, contact info and more. BeenVerified is dedicated to helping search people and learn more about them in a safe and responsible manner.
 - Browse the website `https://www.beenverified.com/`
 - Login to your account and search for the specific phone number.
 
-
-6. **[Sherlock](https://github.com/msaaadd/OSINT-CaseStudy/tree/main/sherlock-master)**
+5. **[Sherlock](https://github.com/msaaadd/OSINT-CaseStudy/tree/main/sherlock-master)**
+Sherlock is an open-source intelligence (OSINT) tool to gather information about a specific username or online identity. One of the main features of Sherlock is its ability to search for a specific username across multiple social media platforms and websites.
  - Clone the specific repository using the command `git clone https://github.com/sherlock-project/sherlock`
  - Move to your specified folder  using `cd sherlock`
  - Download the specified requirements for installation `python3 -m pip install -r requirements.txt`
@@ -48,19 +50,6 @@ phoneinfoga  serve  -p  8080` respectively.
  - For the particular scenario we used the ***anika.burell*** as the username in the command `python3 sherlock anika.burell`
 
 *Note: If you're having any errors in the particular tool make sure you have `python3` installed and your pip is updated to the latest version, to update the pip to the latest version run the following command `python3 -m pip install --upgrade pip`*
-
-
-    
-
-## Final Results of the Information Gathered
-
-|Evette Slaughter| Suspect Scammer |
-|--|--|
-|Full Name: Evette G Slaughter | Full Name: Anika Burell
-|Location: Buffalo, NY|Location: 4641 Fairplay Way, Denver, CO, 80239 |
-|Phone: (716) 689-6207|Phone: +1 (303) 576-9424|
-|Email: evetteslaughter@gmail.com|  |
-
 
 
 
