@@ -11,22 +11,35 @@
 - Reverse Lookup with the phone number.
 
 ## Tools Used:
+1. **[PhoneInfoga](https://github.com/sundowndev/phoneinfoga/)**
+PhoneInfoga is one of the most advanced tools to scan international phone numbers. It allows you to first gather basic information such as country, area, carrier and line type, then use various techniques to try to find the VoIP provider or identify the owner. It works with a collection of scanners that must be configured in order for the tool to be effective. PhoneInfoga doesn't automate everything, it's just there to help investigating on phone numbers.
+- Install using the following commands: `bash <( curl -sSL https://raw.githubusercontent.com/sundowndev/phoneinfoga/master/support/scripts/install)`
+- Install it globally using `sudo install ./phoneinfoga /usr/local/bin/phoneinfoga` 
+- Test to ensure the version you installed is up-to-date `./phoneinfoga version`
+- Run the  `scan`  command with the  `-n`  (or  `--number`) option.
+`phoneinfoga scan -n "+1 (303) 576-9424"`
+`phoneinfoga scan -n "+33 06 79368229`
+`phoneinfoga scan -n "33679368229`
+- Launching the web server using the following command `phoneinfoga serve` and `
+phoneinfoga  serve  -p  8080` respectively.
 
-1. [**That's Them**](https://thatsthem.com/)
+
+
+3. [**That's Them**](https://thatsthem.com/)
 - Visit the specific URL in your browser `https://thatsthem.com/reverse-phone-lookup`
 - Enter Mobile Number for Lookup.
 
-2. **[Reverse Phone Check](https://www.reversephonecheck.com/)** 
+4. **[Reverse Phone Check](https://www.reversephonecheck.com/)** 
 - Browse the website in any browser using the link `https://www.reversephonecheck.com/`
 - Enter the phone number for the reverse lookup.
 - The specific website will redirect you to [truthfinder.com](https://truthfinder.com/) for the complete report.
 
-3. [**Been Verified**](https://www.beenverified.com/)
+5. [**Been Verified**](https://www.beenverified.com/)
 - Browse the website `https://www.beenverified.com/`
 - Login to your account and search for the specific phone number.
 
 
-4. **[Sherlock](https://github.com/msaaadd/OSINT-CaseStudy/tree/main/sherlock-master)**
+6. **[Sherlock](https://github.com/msaaadd/OSINT-CaseStudy/tree/main/sherlock-master)**
  - Clone the specific repository using the command `git clone https://github.com/sherlock-project/sherlock`
  - Move to your specified folder  using `cd sherlock`
  - Download the specified requirements for installation `python3 -m pip install -r requirements.txt`
@@ -47,10 +60,6 @@
 |Location: Buffalo, NY|Location: 4641 Fairplay Way, Denver, CO, 80239 |
 |Phone: (716) 689-6207|Phone: +1 (303) 576-9424|
 |Email: evetteslaughter@gmail.com|  |
-
-
-
-
 
 
 
